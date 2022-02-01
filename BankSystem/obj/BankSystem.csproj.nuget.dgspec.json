@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\DotNet\\BankSystem\\BankSystem\\BankSystem.csproj": {}
+    "C:\\Projetos\\DotNet\\project-bank-back-end\\BankSystem\\BankSystem.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\DotNet\\BankSystem\\Bank.Application.Service\\Bank.Application.Service.csproj": {
+    "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Application.Service\\Bank.Application.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Application.Service\\Bank.Application.Service.csproj",
+        "projectUniqueName": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Application.Service\\Bank.Application.Service.csproj",
         "projectName": "Bank.Application.Service",
-        "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Application.Service\\Bank.Application.Service.csproj",
+        "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Application.Service\\Bank.Application.Service.csproj",
         "packagesPath": "C:\\Users\\Andre-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Application.Service\\obj\\",
+        "outputPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Application.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\Bank.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\Bank.Domain.csproj"
+              "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\Bank.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\Bank.Domain.csproj"
               },
-              "C:\\Projetos\\DotNet\\BankSystem\\Bank.Infra\\Bank.Infra.csproj": {
-                "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Infra\\Bank.Infra.csproj"
+              "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Infra\\Bank.Infra.csproj": {
+                "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Infra\\Bank.Infra.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Projetos\\DotNet\\BankSystem\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj": {
+    "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\DotNet\\BankSystem\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj",
         "projectName": "Bank.CrossCutting.IoC",
-        "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj",
+        "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj",
         "packagesPath": "C:\\Users\\Andre-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.CrossCutting.IoC\\obj\\",
+        "outputPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,11 +89,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\DotNet\\BankSystem\\Bank.Application.Service\\Bank.Application.Service.csproj": {
-                "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Application.Service\\Bank.Application.Service.csproj"
+              "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Application.Service\\Bank.Application.Service.csproj": {
+                "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Application.Service\\Bank.Application.Service.csproj"
               },
-              "C:\\Projetos\\DotNet\\BankSystem\\Bank.Infra\\Bank.Infra.csproj": {
-                "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Infra\\Bank.Infra.csproj"
+              "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Infra\\Bank.Infra.csproj": {
+                "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Infra\\Bank.Infra.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\Bank.Domain.csproj": {
+    "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\Bank.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\Bank.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\Bank.Domain.csproj",
         "projectName": "Bank.Domain",
-        "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\Bank.Domain.csproj",
+        "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\Bank.Domain.csproj",
         "packagesPath": "C:\\Users\\Andre-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -186,14 +186,14 @@
         }
       }
     },
-    "C:\\Projetos\\DotNet\\BankSystem\\Bank.Infra\\Bank.Infra.csproj": {
+    "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Infra\\Bank.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Infra\\Bank.Infra.csproj",
+        "projectUniqueName": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Infra\\Bank.Infra.csproj",
         "projectName": "Bank.Infra",
-        "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Infra\\Bank.Infra.csproj",
+        "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Infra\\Bank.Infra.csproj",
         "packagesPath": "C:\\Users\\Andre-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Infra\\obj\\",
+        "outputPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,8 +210,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\Bank.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\Bank.Domain.csproj"
+              "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\Bank.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\Bank.Domain.csproj"
               }
             }
           }
@@ -266,14 +266,14 @@
         }
       }
     },
-    "C:\\Projetos\\DotNet\\BankSystem\\BankSystem\\BankSystem.csproj": {
+    "C:\\Projetos\\DotNet\\project-bank-back-end\\BankSystem\\BankSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\DotNet\\BankSystem\\BankSystem\\BankSystem.csproj",
+        "projectUniqueName": "C:\\Projetos\\DotNet\\project-bank-back-end\\BankSystem\\BankSystem.csproj",
         "projectName": "BankSystem",
-        "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\BankSystem\\BankSystem.csproj",
+        "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\BankSystem\\BankSystem.csproj",
         "packagesPath": "C:\\Users\\Andre-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\DotNet\\BankSystem\\BankSystem\\obj\\",
+        "outputPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\BankSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -290,14 +290,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\DotNet\\BankSystem\\Bank.Application.Service\\Bank.Application.Service.csproj": {
-                "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Application.Service\\Bank.Application.Service.csproj"
+              "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Application.Service\\Bank.Application.Service.csproj": {
+                "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Application.Service\\Bank.Application.Service.csproj"
               },
-              "C:\\Projetos\\DotNet\\BankSystem\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj": {
-                "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj"
+              "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.CrossCutting.IoC\\Bank.CrossCutting.IoC.csproj"
               },
-              "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\Bank.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\DotNet\\BankSystem\\Bank.Domain\\Bank.Domain.csproj"
+              "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\Bank.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\DotNet\\project-bank-back-end\\Bank.Domain\\Bank.Domain.csproj"
               }
             }
           }

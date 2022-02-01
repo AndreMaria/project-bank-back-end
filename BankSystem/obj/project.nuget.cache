@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pbY3YLlMdGF7QbYFJMj8x3DFD42U4M7AOHv35Hd+s16LYtQMxlH8DK7HbuQKBanOwIqFkcalkyWJta0PflA1Qw==",
+  "dgSpecHash": "1j9sCPghjTnY9cMvThGrdRZynoNCv5sHfPIxWCzn5HAByfF164Kd3ZCq39yYpLfJADFQBMNL8t5KhtQIny/7mw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\DotNet\\BankSystem\\BankSystem\\BankSystem.csproj",
+  "projectFilePath": "C:\\Projetos\\DotNet\\project-bank-back-end\\BankSystem\\BankSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andre-PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Andre-PC\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.1\\microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",
